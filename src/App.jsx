@@ -12,6 +12,10 @@ import Work from './pages/Work';
 import About from './pages/About';
 import Contact from './pages/Contact';
 
+
+
+
+
 // ScrollToTop Component (Optional but recommended)
 // This ensures that when you click a link, the new page starts at the top
 import { useEffect } from "react";
